@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.consirve{
+    width: 100%;
+    height: 3100vh;
+    background-color: black;
+}
+.a{
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+    display: flex;
+}
+.one{
+ width: 20%;
+ height: 100vh;
+ background-color: green;
+}
+.two{
+    width: 80%;
+    height: 100vh;
+    background-color: white;
+}
+.three{
+    width: 100%;
+    height: 40vh;
+    background-color: gray;
+}
+.nerd{
+    width: 50%;
+    height: 40vh;
+    background-color: dodgerblue;
+}
+.starbush{
+    width: 50%;
+    height: 40vh;
+    background-color: greenyellow;
+}
+.four{
+    width: 100%;
+    height: 30vh;
+    background-color: pink;
+    display: flex;
+}
+.five{
+    width: 100%;
+    height: 30vh;
+    background-color: purple;
+}
+.d{
+    width: 20%;
+    height: 30vh;
+    background-color: brown;
+}
+.e{
+    width: 20%;
+    height: 30vh;
+    background-color: blue;
+}
+.f{
+    width: 20%;
+    height: 30vh;
+    background-color: red;
+}
+.g{
+    width: 20%;
+    height: 30vh;
+    background-color: black;
+}
+.vip{
+    width: 10%;
+    height: 30vh;
+    background-color: powderblue;
+    
+}
+.h{
+    width: 20%;
+    height: 30vh;
+    background-color: darkolivegreen;
+}
+.six{
+    width: 100%;
+    height: 20vh;
+    background-color: red;}
+    .seven{
+        width: 100%;
+        height: 10vh;
+        background-color: aqua;
+    }
+    .eight{
+        width: 100%;
+        height: 20vh;
+        background-color: crimson;
+    }
+    .nine{
+        width: 100%;
+        height: 10vh;
+        background-color: moccasin;
+    }
+    .b{
+        width: 100%;
+        height: 20vh;
+        background-color: orange;
+    }
+    .c{
+        width: 100%;
+        height: 10vh;
+        background-color: dimgray;
+    }
